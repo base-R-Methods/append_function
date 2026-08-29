@@ -1,5 +1,13 @@
 # Introduction
 # Review of vectors, the c() function, and ordering
+# The append() function
+# Usage examples
+# Conclusion
+
+###################################################
+
+# Introduction
+# Review of vectors, the c() function, and ordering
 
 c(1, 2, 3) # Numeric , Integer ,double
 c("a", "b", "c") # Character
